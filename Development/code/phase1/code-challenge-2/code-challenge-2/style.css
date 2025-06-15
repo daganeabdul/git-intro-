@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+     margin: 20px;
+     text-align: center;
+     background-color: rgb(63, 18, 197);
+  }
+  .event-body{
+    background-color:#f27a11 ;
+    margin-top: 30px;
+  }
+  #guestCategory{
+    width: 220px;
+    height: 25px;
+  }
+  #guestNameInput{
+    width: 220px;
+    height: 20px;
+    
+  }
+  h1{
+    
+    color: #0ee8ec ;
+  }
+  
+  form {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    color: aliceblue;
+  }
+  
+  button {
+    margin-left: 5px;
+    width: 120px;
+    height: 30px;
+  }
+  
+  .tag {
+    padding: 2px 6px;
+    margin-left: 6px;
+    border-radius: 4px;
+    font-size: 0.85em;
+  }
+  
+  .friend {
+    background-color: #d0ebff;
+    color: #005;
+  }
+  
+  .family {
+    background-color: #ffdede;
+    color: #800;
+  }
+  
+  .colleague {
+    background-color: #e0ffe0;
+    color: #070;
+  }
+  
+  .timestamp {
+    display: block;
+    font-size: 0.7em;
+    color: gray;
+    margin-top: 4px;
+  }
+  
